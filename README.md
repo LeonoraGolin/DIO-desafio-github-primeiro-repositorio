@@ -1,2 +1,5 @@
 # DIO-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git / GitHub
+Repositório do desafio de projeto sobre Git / GitHub
+### falvojr
+## links úteis:
+[Markdown](https://www.markdownguide.org/basic-sintax/)
